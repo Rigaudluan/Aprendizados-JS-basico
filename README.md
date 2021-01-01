@@ -1,0 +1,1 @@
+Bem vindo(a) ao meu código e todo o conteúdo que já aprendi sobre JS (pode estar desatualizado :smile:)
