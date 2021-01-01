@@ -1,1 +1,3 @@
-Bem vindo(a) ao meu código e todo o conteúdo que já aprendi sobre JS (pode estar desatualizado :smile:)
+# Bem vindo(a) ao meu código!
+
+ Aqui está um pouco do conteúdo que já aprendi sobre JS.
